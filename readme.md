@@ -55,7 +55,7 @@ El backend se compone de la implementación de lo mejor de 4 tipos de arquitectu
     
     - **Desventaja:** La implementación de Clean Architecture puede requerir un tiempo adicional en comparación con enfoques menos estructurados. La estricta separación de responsabilidades puede resultar en una mayor complejidad inicial y requerir un mayor esfuerzo de diseño.
     
-    ![arquitectura](assets/clean.png)
+    <img src="assets/clean.png" alt="arquitectura" width="300" /> 
     
 - **Hexagonal Architecture**
 
@@ -63,23 +63,23 @@ El backend se compone de la implementación de lo mejor de 4 tipos de arquitectu
     
     - **Desventaja:** La implementación de Hexagonal Architecture puede ser compleja y requerir un enfoque cuidadoso en el diseño inicial. La adición de adaptadores y puertos puede aumentar la complejidad del código, especialmente en aplicaciones pequeñas o simples.
     
-    ![arquitectura](assets/hexagonal.png)
+    <img src="assets/hexagonal.png" alt="hexagonal" width="300" /> 
     
 - **Vertical Slicing**
 
     - **Ventaja:** Permite desarrollar y entregar funcionalidades completas y listas para usar de forma más rápida y eficiente. Facilita la colaboración y la comunicación entre los miembros del equipo al enfocarse en una característica específica en lugar de en capas o componentes individuales.
     
     - **Desventaja:** La implementación de Vertical Slicing puede resultar en una mayor complejidad en comparación con enfoques más tradicionales, ya que implica la coordinación y el manejo de múltiples flujos de trabajo simultáneos. Requiere una planificación cuidadosa y una comunicación efectiva entre los miembros del equipo.
-    
-    ![arquitectura](assets/vertical.png)
+     
+    <img src="assets/vertical.png" alt="vertical" width="300" /> 
     
 - **Screaming Architecture**
 
     - **Ventaja:** Promueve una arquitectura enfocada en los conceptos clave y los casos de uso principales de la aplicación. Proporciona una estructura clara y expresiva que facilita la comprensión del propósito y la funcionalidad de cada componente.
     
     - **Desventaja:** La implementación de Screaming Architecture puede requerir una mayor planificación y diseño inicial, ya que se basa en la identificación y la definición de conceptos y casos de uso clave. Puede ser menos flexible en comparación con enfoques más generales, lo que puede dificultar la adaptación a cambios o requisitos adicionales en el futuro.
-    
-    ![arquitectura](assets/screaming.png)
+
+    <img src="assets/screaming.png" alt="screaming" width="300" /> 
 
 ## Estructura final
 
