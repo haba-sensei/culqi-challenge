@@ -43,6 +43,7 @@ Este reto es un backend donde podemos Tokenizar una tarjeta de credito y consult
 - **backend:**
   - pnpm run install 
   - pnpm start
+  - pnpm test
   - url: http://localhost:5000/api/v1/card/
   
   
