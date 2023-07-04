@@ -20,6 +20,8 @@ Este reto es un backend donde podemos Tokenizar una tarjeta de credito y consult
 
 - **Pruebas:** La implementación de pruebas se enfoco en las validaciones que son llamadas por los **Chains** por medio de los middlewares y se realizo dos pruebas para los Endpoints end to end para un total de 9 pruebas.
 
+    <img src="assets/testing.png" alt="screaming" width="300" /> 
+
 - **Tecnologías:** express, express-validator, typescript, jest, ioredis, mongoose, husky y commitlint
 
 - **Extras:** Se agrego un estandar de smart commits y revision de test antes de enviar por git cualquier feature de la mano de husky que automatiza el proceso. 
